@@ -1,3 +1,8 @@
+/**
+	* Lesson: 3.2 If and Else
+	* Author: Jacky Lui
+	* Date Created: March 27, 2026
+	*/
 public class PracticeProblem {
 
 	public static void main(String args[]) {
